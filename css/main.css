@@ -1,0 +1,45 @@
+.main_logo{
+	list-style-type: none;
+	margin-right: 50px;
+}
+.main{
+	list-style-type: none;
+	text-decoration: none;
+	color: #EE4036;
+	margin-right: 20px;
+}
+.news{
+	list-style-type: none;
+	text-decoration: none;
+	color: #3D58A6;	
+	margin-right: 36px;
+}
+.contact{
+	list-style-type: none;
+	text-decoration: none;
+	color: #3D58A6;	
+}
+li{
+	display: inline;
+}
+.info{
+	font-size: 20px;
+	color: #3D58A6;
+	margin-top: 75px;
+	margin-left: 48px;
+}
+.address{
+	margin-left: 48px;
+	font-size: 16px;
+	margin-right: 36px;
+	color: #707070;
+}
+.address_1{
+	color: #000000;
+	font-size:16px;
+}
+section{
+	display: inline-block;
+	margin-right: 100px;
+	margin-top: 80px;
+}
