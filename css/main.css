@@ -41,4 +41,11 @@ li{
 section{
 	display: inline-block;
 	margin-right: 100px;
+	border: #707070;
+}
+footer{
+	margin-top: 400px;
+}
+.line{
+	margin-right: 20px;
 }
