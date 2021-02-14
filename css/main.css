@@ -1,4 +1,4 @@
-.main_logo{
+	.main_logo{
 	list-style-type: none;
 	margin-right: 50px;
 }
@@ -41,11 +41,18 @@ li{
 section{
 	display: inline-block;
 	margin-right: 100px;
-	border: #707070;
+	vertical-align:top
 }
 footer{
-	margin-top: 400px;
+	margin-top: 350px;
 }
 .line{
 	margin-right: 20px;
+}
+.map_1{
+	margin-top: 70px;	
+}
+.back{
+	background-color: #E6E6E6;
+	
 }
