@@ -1,0 +1,94 @@
+li {
+	display: inline;
+}
+}
+.mainicon {
+	vertical-align: bottom;
+}
+.navbar-a {
+	margin-left: 50px;
+	margin-right: 18px;
+	color:  #EE4036; 
+	font-size: 22px;
+	font-family: 'BPG Nino Mtavruli Bold';
+}
+.navbar-b {
+	margin-right: 18px;
+	color: #3D58A6;
+	font-family: 'BPG Nino Mtavruli Bold';
+	font-size: 22px;
+}
+.navbar-c {
+	color: #3D58A6;
+	font-family: 'BPG Nino Mtavruli Bold';
+	font-size: 22px;
+
+}
+.box1 {
+	margin-top: 27px;
+	margin-left: 38px;
+}
+.box2 {
+	margin-top: 33px;
+	margin-left: 38px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+}
+.box3 {
+	margin-left: 66px;
+	display: inline-block;
+	width: 525px;
+	margin-top:41px;
+}
+.articlecontent1 {
+	display: inline-block;
+	width: 103px;
+	vertical-align: top;
+}
+.articlecontent2 {
+	display: inline-block;
+	width: 350px;
+	margin-left: 65px;
+	font-size: 20px;
+	color: #333333;
+	font-family: 'Roboto', sans-serif;
+}
+h1 {
+	color: #3D58A6;
+	font-size:22px;
+	margin-bottom: 14px;
+}
+.box4 {
+	display: inline-block;
+	width: 525px;
+	margin-left: 119px;
+	margin-top: 41px;
+	vertical-align: top;
+}
+.articlecontent3 {
+	display: inline-block;
+	width: 85px;
+	vertical-align: top;
+
+}
+.articlecontent4 {
+	display: inline-block;
+	width: 354px;
+	margin-left: 80px;
+	font-size: 20px;
+	color: #333333;
+	font-family: 'Roboto', sans-serif;
+}
+footer {
+	margin-top: 95px;
+}
+.ficon {
+	margin-left: 50px;
+	border-right: solid; border-color: #363E97;
+	padding-right: 33px;
+	margin-bottom: 40px;
+}
+.youicon {
+	margin-left: 33px;
+	margin-bottom: 40px;
+}
